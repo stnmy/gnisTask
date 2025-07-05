@@ -6,7 +6,7 @@ using Microsoft.Extensions.Configuration;
 using System.Data;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using System.Linq; // Required for .Any()
+using System.Linq;
 
 namespace gnisTask.Repository
 {
